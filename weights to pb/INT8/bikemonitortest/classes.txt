@@ -1,0 +1,5 @@
+cyclist-no-helmet
+cyclist-with-helmet
+motorcyclist
+pedestrian
+vehicle
