@@ -21,6 +21,9 @@ decaf/
 submission/
 cfg/
 temp/
+test/
+train/
+valid/
 build/darknet/*
 build_*/
 ninja/
@@ -64,3 +67,12 @@ uselib
 uselib_track
 darknet
 vcpkg/
+sampleVideo1.mp4
+sampleVideo2.mp4
+sampleVideo3.mp4
+sampleVideo3_trimmed.mp4
+sampleVideo4.avi
+predictions.jpg
+yolov4-tiny.conv.29
+yolov4.conv.137
+*.sample
